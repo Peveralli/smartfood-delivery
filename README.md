@@ -123,5 +123,5 @@ SmartFoodDelivery/
 └── sql/
     └── smartfood\_delivery.sql
 ```
-Projeto finalizado em abril/2026
+Projeto finalizado: abril/2026
 
